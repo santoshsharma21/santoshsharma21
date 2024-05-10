@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Santosh Sharma
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning automation software testing
+- 📫 How to reach me sharma.santosh2121@gmail.com
 
 <!---
 santoshsharma21/santoshsharma21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
